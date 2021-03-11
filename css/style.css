@@ -1,0 +1,37 @@
+.topnav {
+     display: block;
+     color: black;
+     text-align: center;
+     text-decoration: none;
+     position: fixed;
+}
+
+.left-header {
+     float: left;
+     color:#000;
+     
+}
+.rightnav  {
+     float: right;
+     color:#000;
+}
+.logo {
+     padding-top: 170px;
+     width: 100%;
+     display:flex;
+     justify-content: center;
+}
+.middle {
+     margin-top: 30px;
+     width: 100%;
+     display:flex;
+     justify-content: center;
+     }
+.searchbar > input:nth-child(1) {
+     width: 500px;
+     height: 30px;
+     }
+.buttons {
+     margin: 30px;
+     padding-left: 100px;
+}
