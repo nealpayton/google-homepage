@@ -4,16 +4,24 @@
      text-align: center;
      text-decoration: none;
      position: fixed;
-}
-
-.left-header {
      float: left;
-     color:#000;
-     
+     width: 100%;
 }
-.rightnav  {
-     float: right;
-     color:#000;
+.topnav ul {
+     list-style-type: none;
+     margin: 0px;
+     padding: 0px;
+     overflow: hidden;
+}
+li {
+     float: left;
+}
+li a {
+     display: block;
+     color: black;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
 }
 .logo {
      padding-top: 170px;
