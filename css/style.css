@@ -67,7 +67,12 @@
      height: 40px;
      border-radius: 30px;
      }
-
+.searchbar #searchicon {
+     position: absolute;
+     left: 666px;
+     top: 309px;
+     width: 15px;
+}
 .buttons {
      margin: 30px;
      padding: 0px 10px 10px 180px;
