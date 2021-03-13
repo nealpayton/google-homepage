@@ -39,6 +39,7 @@
      font-weight: bold;
      display: inline-block;
      height: 35px;
+     border-radius: 4px;
  }
 .topnav #GHli a{
      padding-top: 4px;
